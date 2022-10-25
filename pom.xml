@@ -29,11 +29,7 @@
 			<name>internal release</name>
 			<url>http://localhost:8081/repository/cba-release/</url>
 		</repository>
-		<snapshotRepository>
-			<id>deploymentNexus</id>
-			<name>internal snapshot release</name>
-			<url>http://localhost:8081/repository/cba-snapshot/</url>
-		</snapshotRepository>
+		
 	</distributionManagement>
 
 	<build>
